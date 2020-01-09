@@ -50,3 +50,6 @@ The app skeleton uses a subset of [Foundation](http://foundation.zurb.com/) (v5)
 framework by default. You can, however, replace it with any other library or
 custom styles.
 # Admin-Login-and-Registration-in-Cake-PHP
+![1](https://user-images.githubusercontent.com/29045747/72042813-b12c8b80-32d9-11ea-9105-314093a5eaee.PNG)
+![2](https://user-images.githubusercontent.com/29045747/72042814-b1c52200-32d9-11ea-875e-533e3cf7679e.PNG)
+![3](https://user-images.githubusercontent.com/29045747/72042817-b2f64f00-32d9-11ea-902d-2a9d6d69a02d.PNG)
